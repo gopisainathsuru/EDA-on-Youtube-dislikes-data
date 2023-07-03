@@ -1,4 +1,4 @@
-# EDA on Youtube dislikes data project description
+# Project description
 --------------------------------------------------
 
 Dataset link: https://www.kaggle.com/datasets/dmitrynikolaev/youtube-dislikes-dataset
